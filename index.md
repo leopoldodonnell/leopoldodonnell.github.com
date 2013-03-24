@@ -7,7 +7,7 @@ tagline:
 
 ## Just RTFM
 
-If it were really only about the programming. This is blog and blather is my collection of things I've learnt
+If it were really only about the programming. This blog and blather is my collection of things I've learnt
 and/or shared via [Leo's github](https://github.com/leopoldodonnell). [more...]({% post_url 2013-03-24-just-rtfm %}) 
 
 ---
