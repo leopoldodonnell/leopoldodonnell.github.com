@@ -25,5 +25,3 @@ and/or shared via [Leo's github](https://github.com/leopoldodonnell). [more...](
    <hr class="clearfix">
 {% endfor %}
 
----
-
